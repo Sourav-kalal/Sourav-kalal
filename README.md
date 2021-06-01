@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sourav_kalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="sourav_kalal" height="30" width="40" /></a>
+<a href="https://twitter.com/sourav_kalal" target="blank"><img align="center" src="https://icons8.com/icon/119014/twitter" alt="sourav_kalal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souravkalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="souravkalal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14867214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="Sourav Kalal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a_souravkalal99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="a_souravkalal99" height="30" width="40" /></a>
