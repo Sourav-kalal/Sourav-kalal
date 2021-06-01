@@ -11,8 +11,8 @@
 <p align="left">
 <a href="https://twitter.com/sourav_kalal" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-256.png" alt="sourav_kalal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souravkalal" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="souravkalal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14867214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14867214" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/a_souravkalal99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="a_souravkalal99" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14867214" target="blank"><img align="center" src="https://www.iconfinder.com/icons/1220346/stackoverflow_overflow_stachoverflow_stack_icon" alt="Sourav_Kalal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/a_souravkalal99" target="blank"><img align="center" src="https://www.iconfinder.com/icons/4373234/hackerrank_logo_logos_icon" alt="a_souravkalal99" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sourav_kalal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sourav_kalal" height="30" width="40" /></a>
 </p>
 
