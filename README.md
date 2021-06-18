@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **souravkalal99@gmail.com**
 
-- ⚡ Fun fact **I think, I am decent and humorous ;)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sourav_kalal" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-256.png" alt="sourav_kalal" height="30" width="40" /></a>
