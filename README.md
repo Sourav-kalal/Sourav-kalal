@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sourav Kalal</h1>
-<h3 align="center">A passionate computer science student</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
 
