@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40" style="margin: 5px;"/>
   </a> 
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" style="margin: 5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" style="margin: 5px;"/>
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank">
